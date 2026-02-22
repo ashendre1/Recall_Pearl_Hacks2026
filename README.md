@@ -1,6 +1,6 @@
-Recall
+*Recall*
 
-Turn what you read into what you remember
+*Turn what you read into what you remember*
 
 Recall is an intelligent learning platform that helps you remember what you've read by generating personalized quizzes from web-scraped content. It uses semantic search, AI-powered question generation, and audio evaluation to create an engaging learning experience.
 
